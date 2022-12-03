@@ -1,0 +1,54 @@
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+A:\university\fourth year first semester\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\admin\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll

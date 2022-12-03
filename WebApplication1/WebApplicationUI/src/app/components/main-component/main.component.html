@@ -1,0 +1,33 @@
+<body *ngIf="cellValue===-1 && win===0">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;text-align: center">
+    <div style="width:100%">
+      <h3>Виберіть свою сторону</h3>
+    </div>
+    <div style="width:100px;height: 100px;display:inline-block;" (click)="cellValue=1; start()">
+      <img alt="cross" src="./assets/img/cross.jpg" />
+    </div>
+    <div style="width:100px;height: 100px;display:inline-block;" (click)="cellValue=0; start()">
+      <img alt="zero" src="./assets/img/zero.jpg" />
+    </div>
+  </div>
+</body>
+
+<body *ngIf="cellValue!==-1 && win===0">
+  <div *ngFor="let cells of Field" style="display:block;height: 100px;margin:6px auto;width:318px;">
+    <div *ngFor="let cell of cells"
+      style="margin:auto 3px;width:100px;height: 100px;background-color:rgb(49, 60, 57);float:left;display:inline-block;color:white;"
+      (click)="!moving?move(cell):''">
+      <img *ngIf="cell.value===0" alt="{{cell.value}}" src="./assets/img/zero.jpg" />
+      <img *ngIf="cell.value===1" alt="{{cell.value}}" src="./assets/img/cross.jpg" />
+    </div>
+  </div>
+</body>
+
+<body *ngIf="win!==0">
+  <div style="width:300px;margin:auto;text-align: center">
+    <h1 *ngIf="win===1">{{wonStr}}</h1>
+    <h1 *ngIf="win===-1">{{loseStr}}</h1>
+    <h1 *ngIf="win===2">Нічія</h1>
+    <button style="height: 50px; width:100px;" (click)="win=0;cellValue=-1;">Спробуй ще</button>
+  </div>
+</body>
